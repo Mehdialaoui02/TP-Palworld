@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1",
+    "name": "Dragon",
+    "price": 1000,
+    "stats": {
+      "attack": 120,
+      "defense": 80,
+      "health": 150
+    }
+  },
+  {
+    "id": "2",
+    "name": "Phoenix",
+    "price": 1200,
+    "stats": {
+      "attack": 110,
+      "defense": 90,
+      "health": 140
+    }
+  },
+  {
+    "id": "3",
+    "name": "Golem",
+    "price": 800,
+    "stats": {
+      "attack": 70,
+      "defense": 120,
+      "health": 200
+    }
+  },
+  {
+    "id": "4",
+    "name": "Hydra",
+    "price": 1500,
+    "stats": {
+      "attack": 140,
+      "defense": 100,
+      "health": 170
+    }
+  },
+  {
+    "id": "5",
+    "name": "Griffin",
+    "price": 900,
+    "stats": {
+      "attack": 100,
+      "defense": 85,
+      "health": 120
+    }
+  },
+  {
+    "id": "6",
+    "name": "Minotaur",
+    "price": 1100,
+    "stats": {
+      "attack": 130,
+      "defense": 95,
+      "health": 140
+    }
+  },
+  {
+    "id": "7",
+    "name": "Basilisk",
+    "price": 950,
+    "stats": {
+      "attack": 125,
+      "defense": 70,
+      "health": 110
+    }
+  },
+  {
+    "id": "8",
+    "name": "Kraken",
+    "price": 1600,
+    "stats": {
+      "attack": 100,
+      "defense": 120,
+      "health": 200
+    }
+  },
+  {
+    "id": "9",
+    "name": "Cerberus",
+    "price": 1300,
+    "stats": {
+      "attack": 135,
+      "defense": 90,
+      "health": 160
+    }
+  },
+  {
+    "id": "10",
+    "name": "Chimera",
+    "price": 1250,
+    "stats": {
+      "attack": 120,
+      "defense": 110,
+      "health": 150
+    }
+  },
+  {
+    "id": "11",
+    "name": "Sphinx",
+    "price": 1400,
+    "stats": {
+      "attack": 110,
+      "defense": 130,
+      "health": 180
+    }
+  },
+  {
+    "id": "12",
+    "name": "Vampire Lord",
+    "price": 1050,
+    "stats": {
+      "attack": 115,
+      "defense": 80,
+      "health": 140
+    }
+  },
+  {
+    "id": "13",
+    "name": "Elemental",
+    "price": 950,
+    "stats": {
+      "attack": 90,
+      "defense": 100,
+      "health": 130
+    }
+  }
+]

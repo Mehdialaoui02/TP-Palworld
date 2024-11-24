@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Champion of Fire"
+    },
+    {
+        "id": 2,
+        "name": "Master of Beasts"
+    },
+    {
+        "id": 3,
+        "name": "Defender of Realms"
+    },
+    {
+        "id": 4,
+        "name": "Arcane Conqueror"
+    },
+    {
+        "id": 5,
+        "name": "Legendary Tamer"
+    },
+    {
+        "id": 6,
+        "name": "Shadow Slayer"
+    }
+]

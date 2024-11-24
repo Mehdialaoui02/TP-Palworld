@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "name": "Mehdi Alaoui",
+    "creatures": [
+      "1",
+      "2",
+      "5"
+    ],
+    "badges": [
+      1,
+      3
+    ],
+    "message_ids": [
+      "msg001",
+      "msg002"
+    ],
+    "invitation_ids": [
+      "inv001",
+      "inv002"
+    ],
+    "match_history_ids": [
+      "match001",
+      "match002"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Aagour Fouad",
+    "creatures": [
+      "3",
+      "4"
+    ],
+    "badges": [
+      3
+    ],
+    "message_ids": [
+      "msg003",
+      "msg004"
+    ],
+    "invitation_ids": [
+      "inv003"
+    ],
+    "match_history_ids": [
+      "match003"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Brock Boulder",
+    "creatures": [
+      "6",
+      "7",
+      "8"
+    ],
+    "badges": [
+      4
+    ],
+    "message_ids": [
+      "msg005"
+    ],
+    "invitation_ids": [
+      "inv004",
+      "inv005"
+    ],
+    "match_history_ids": [
+      "match004",
+      "match005",
+      "match006"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Lance Draconis",
+    "creatures": [
+      "9",
+      "10",
+      "4",
+      "5"
+    ],
+    "badges": [
+      5,
+      1
+    ],
+    "message_ids": [
+      "msg006",
+      "msg007"
+    ],
+    "invitation_ids": [
+      "inv006"
+    ],
+    "match_history_ids": [
+      "match007",
+      "match008"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Cynthia Quartz",
+    "creatures": [
+      "11",
+      "12",
+      "5"
+    ],
+    "badges": [
+      6,
+      1
+    ],
+    "message_ids": [
+      "msg008",
+      "msg009",
+      "msg010"
+    ],
+    "invitation_ids": [
+      "inv007",
+      "inv008"
+    ],
+    "match_history_ids": [
+      "match009",
+      "match010"
+    ]
+  }
+]
